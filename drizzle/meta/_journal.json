@@ -15,6 +15,13 @@
       "when": 1739684990583,
       "tag": "0001_warm_liz_osborn",
       "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1739905346926,
+      "tag": "0002_wild_angel",
+      "breakpoints": true
     }
   ]
 }
